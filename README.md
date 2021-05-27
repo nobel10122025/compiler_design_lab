@@ -1,2 +1,4 @@
 # compiler_design_lab
-convert regular expression to NFA and DFA
+Convert regular expression to e-NFA and DFA
+Input format :   regular expression
+Output format : e-NFA and DFA (using a networkx)
